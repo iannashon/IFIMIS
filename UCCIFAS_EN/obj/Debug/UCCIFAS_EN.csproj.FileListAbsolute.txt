@@ -1,0 +1,4 @@
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_EN\bin\Debug\UCCIFAS_EN.dll
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_EN\bin\Debug\UCCIFAS_EN.pdb
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_EN\obj\Debug\UCCIFAS_EN.dll
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_EN\obj\Debug\UCCIFAS_EN.pdb

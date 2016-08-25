@@ -1,0 +1,14 @@
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_DAL\bin\Debug\UFIS_DAL.dll
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_DAL\bin\Debug\UFIS_DAL.pdb
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_DAL\bin\Debug\UFIS_EN.dll
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_DAL\bin\Debug\UFIS_EN.pdb
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_DAL\obj\Debug\UFIS_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_DAL\obj\Debug\UFIS_DAL.dll
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_DAL\obj\Debug\UFIS_DAL.pdb
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_DAL\bin\Debug\UFIS_DAL.dll
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_DAL\bin\Debug\UFIS_DAL.pdb
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_DAL\bin\Debug\UFIS_EN.dll
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_DAL\bin\Debug\UFIS_EN.pdb
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_DAL\obj\Debug\UFIS_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_DAL\obj\Debug\UFIS_DAL.dll
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_DAL\obj\Debug\UFIS_DAL.pdb

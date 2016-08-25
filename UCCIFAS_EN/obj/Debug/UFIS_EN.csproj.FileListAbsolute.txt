@@ -1,0 +1,8 @@
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_EN\bin\Debug\UFIS_EN.dll
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_EN\bin\Debug\UFIS_EN.pdb
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_EN\obj\Debug\UFIS_EN.dll
+C:\Users\Karaze\Desktop\Projects\UCCIFAS2\UCCIFAS_EN\obj\Debug\UFIS_EN.pdb
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_EN\bin\Debug\UFIS_EN.dll
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_EN\bin\Debug\UFIS_EN.pdb
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_EN\obj\Debug\UFIS_EN.dll
+C:\Users\Karaze\Desktop\Projects\UFIS\UCCIFAS_EN\obj\Debug\UFIS_EN.pdb
